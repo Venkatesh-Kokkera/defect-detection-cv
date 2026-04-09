@@ -37,4 +37,4 @@ pip install -r requirements.txt
 python detect.py --source ./data/sample_images/ --conf 0.5
 uvicorn app.main:app --host 0.0.0.0 --port 8000
 
-Venkatesh Kokkera · LinkedIn · Email
+Venkatesh Kokkera · 📧 vkokkeravk@gmail.com · 💼 LinkedIn:https://www.linkedin.com/in/venkatesh-ko/ · 📞 +1 (203) 479-2974 . 📍 Lowell, MA 
